@@ -1,0 +1,1 @@
+Petit projet pour m'entraîner avec Git;
