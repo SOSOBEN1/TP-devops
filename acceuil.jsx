@@ -7,7 +7,7 @@ export default function App() {
 
   return (
     <div style={{ textAlign: "center", marginTop: 50 }}>
-      <h1>TP DevOps avant provoquer un conflit</h1>
+      <h1>TP DevOps apres la modification avant provoquer un conflit</h1>
       <p>Compteur : {count}</p>
       <button onClick={() => setCount(count + 1)}>+1</button>
       <button onClick={() => setCount(0)}>Reset</button>
