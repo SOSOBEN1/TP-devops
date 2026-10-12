@@ -8,7 +8,7 @@ export default function App() {
   return (
     <div style={{ textAlign: "center", marginTop: 50 }}>
       <h1>TP DevOps apres la modification avant de provoquer un conflit</h1>
-      <p>Compteur pull request  {count}</p>
+      <p>Compteur pull request on vas faire un changemet   {count}</p>
       <button onClick={() => setCount(count + 1)}>+1</button>
       <button onClick={() => setCount(0)}>Reset</button>
     </div>
